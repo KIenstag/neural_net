@@ -1,3 +1,6 @@
 Verschiedene freie Lernangebote zum Thema KI für verschiedene Zielgruppen:
 
 https://ki-campus.org/
+
+### Fortgeschritten
+https://www.kaggle.com
